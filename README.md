@@ -1,4 +1,5 @@
 # JoelApp
+
 #Student ID: 11109432
 
 This is a React Native project created using Expo CLI. This project displays a simple message with customized styling.
@@ -14,47 +15,45 @@ This is a React Native project created using Expo CLI. This project displays a s
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) 
+- [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ### Installation
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/JoelApp.git
-    cd JoelApp
-    ```
+   ```bash
+   git clone https://github.com/yourusername/JoelApp.git
+   cd JoelApp
+   ```
 
 2. **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
-
-   
+   ```bash
+   npm install
+   ```
 
 ### Running the Project
 
 1. **Start the Expo development server:**
 
-    ```bash
-    expo start
-    ```
+   ```bash
+   expo start
+   ```
 
 2. **Open the app:**
 
-    - Use an android emulator 
-    - Scan the QR code with the Expo Go app on your mobile device.
+   - Use an android emulator
+   - Scan the QR code with the Expo Go app on your mobile device.
 
 ## Customizations in `App.js`
 
 - **Background Color:** The background color of the `View` component has been changed to `#add8e6`.
-- **Text Message:** The `Text` component displays "My name is Joel Jeswon Tetteh" with "Joel Jeswon Tetteh" in bold. 
+- **Text Message:** The `Text` component displays "My name is Joel Jeswon Tetteh" with "Joel Jeswon Tetteh" in bold.
 - **Font Size:** The font size of the text has been increased to 24.
 - **Bold Name:** The name "Joel Jeswon Tetteh" is displayed in bold.
 
-### Code 
+### Code
 
 Here's the customized `App.js`:
 
@@ -73,7 +72,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#808080', 
+    backgroundColor: '#808080',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -99,8 +98,9 @@ const styles = StyleSheet.create({
 
 #Commited by adding Student ID and screenshots to README file
 
-![WhatsApp Image 2024-07-05 at 2 23 04 PM (1)](https://github.com/jeswon-tetteh/rn-assignment2-ID-11109432/assets/173017886/d75e3013-daa6-4401-94ef-2bdae59d0d48)
+![JoelApp screenshot](C:\Users\Lord Buju\JoelApp\Screenshot (388).png)
+
+![JoelApp screenshot2](C:\Users\Lord Buju\JoelApp\Screenshot JoelApp.jpeg)
 
 
-![Screenshot (388)](https://github.com/jeswon-tetteh/rn-assignment2-ID-11109432/assets/173017886/8ebb7a8c-fe8c-463d-a864-08224214a4ae)
-
+```
