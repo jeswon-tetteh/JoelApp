@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontSize: 31
+    fontSize: 35
 ,
   },
   boldText: {
