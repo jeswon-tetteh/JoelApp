@@ -1,4 +1,5 @@
 # JoelApp
+#Student ID: 11109432
 
 This is a React Native project created using Expo CLI. This project displays a simple message with customized styling.
 
@@ -95,3 +96,11 @@ const styles = StyleSheet.create({
 #Committed by changing font size to 35
 
 #Commited by changing App text to "My name is Jeswon Tetteh"
+
+#Commited by adding Student ID and screenshots to README file
+
+![WhatsApp Image 2024-07-05 at 2 23 04 PM (1)](https://github.com/jeswon-tetteh/rn-assignment2-ID-11109432/assets/173017886/d75e3013-daa6-4401-94ef-2bdae59d0d48)
+
+
+![Screenshot (388)](https://github.com/jeswon-tetteh/rn-assignment2-ID-11109432/assets/173017886/8ebb7a8c-fe8c-463d-a864-08224214a4ae)
+
